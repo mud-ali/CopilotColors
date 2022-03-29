@@ -1,0 +1,43 @@
+div#e {
+    /* center the div */
+    top:0;
+    margin: 0 auto;
+    /* make the div the same width as the browser window */
+    width: 92vw;
+    /* make the div stretch vertically to the browser windwo */
+    height: 95vh;
+    /* center all children */
+    text-align: center;
+    vertical-align: middle;
+}
+ul {
+    /* center the ul */
+    top:0;
+    margin: 0 auto;
+    /* make the ul the same width as the browser window */
+    width: 100%;
+    /* make the ul stretch vertically to the browser windwo */
+    height: 45%;
+    /* center all children */
+    text-align: center;
+    vertical-align: middle;
+}
+input {
+    /* make the input box the same width as the browser window */
+    width: 20%;
+    /* center the input box */
+    margin: 0 auto;
+    /* add a border*/
+    border: 1px solid black;
+    /* make the input box a little bit bigger */
+    padding: 10px;
+    /* make the input box a little bit bigger */
+    font-size: 20px;
+    /* make the input box a little bit bigger */
+    font-weight: bold;
+    /* add a border-radius */
+    border-radius: 10px;
+    /* make the input box a little bit bigger */
+    background-color: #f0f0f0;
+
+}
