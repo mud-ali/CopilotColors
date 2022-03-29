@@ -1,5 +1,5 @@
 # Color Inverter
-## Made mostly by Github Copilot
+### Made mostly by Github Copilot
 
 ##### A project idea I saw on the internet and decided to have Github Copilot help me make
 
